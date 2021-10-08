@@ -1,0 +1,54 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/tsuchida/ros_package/denso_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/annotation_package/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/arm_move/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_2020/bayes_pose/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_robot/bcap_core/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_robot/bcap_service/include/**",
+        "/home/tsuchida/ros_package/kame_ws/src/cloud_practice/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_recognition/cnn_pose_estimator/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_recognition/colored_pointcloud/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_robot/denso_control/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_simulator/denso_gazebo/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_simulator/denso_gazebo_control/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_simulator/denso_gazebo_grasp/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_robot/denso_robot_core/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_state_machine/denso_state_behavior/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/pose_estimator_pkg/estimator/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/gazebo_plugin/gazebo-pkgs/gazebo_grasp_plugin/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/gazebo_plugin/gazebo-pkgs/gazebo_state_plugins/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/gazebo_plugin/gazebo-pkgs/gazebo_test_tools/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/gazebo_plugin/gazebo-pkgs/gazebo_version_helpers/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/gazebo_plugin/gazebo-pkgs/gazebo_world_plugin_loader/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/pose_estimator_pkg/gen_dataset/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_recognition/image_processing_pkg/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_path_planning/jacobi_planning/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_recognition/meshcloud_publisher/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_2020/meshcloud_pblisher_pkg/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/gazebo_plugin/general-message-pkgs/object_msgs_tools/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/oneshot_calibration_system/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/perception_pcl/pcl_conversions/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/perception_pcl/pcl_ros/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_recognition/pointcloud_processing/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_recognition/pointcloud_registrator/include/**",
+        "/home/tsuchida/ros_package/kame_ws/src/pointcloud_usage/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/pose_estimator_pkg/pose_estimator_measure/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/gazebo_plugin/roboticsgroup_gazebo_plugins/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/denso_pkgs/denso_recognition/target_extractor/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/tf_publish/include/**",
+        "/home/tsuchida/ros_package/denso_ws/src/denso_run/rikuken_original/w2d_to_3d_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

@@ -31,8 +31,8 @@ include_directories(
   ${PCL_INCLUDE_DIRS}
 )
 
-add_executable(cloud_save src/cloud_save.cpp)
-target_link_libraries(cloud_save
+add_executable(cloud_save1 src/cloud_save.cpp)
+target_link_libraries(cloud_save1
   ${catkin_LIBRARIES}
   ${PCL_LIBRARIES}
 )

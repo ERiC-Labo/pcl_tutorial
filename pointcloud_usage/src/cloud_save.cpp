@@ -50,12 +50,7 @@ int main(int argc, char** argv)
    sub = nh.subscribe(topic_name, 1, point_callback);
    int count = 0;
    ros::Rate loop_rate(10);
-   while (count++ <= 20)
-   {
-       //std::cout << topic_name << std::endl;
-       ros::spinOnce();
-       loop_rate.sleep();
-   }
+    ros::spin();
     //PointCloud_class::save_pcd(pointcloud, save_name);
     return 0;
 }
